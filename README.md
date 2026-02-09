@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcyKLUctmoG/giphy.gif" width="35"> Hi, I'm Jayson Butawan 
-### ⚡ Full-Stack Architect | Mobile & Web Ecosystems
+### ⚡ IT Student Enthusiast | Mobile & Web Ecosystems
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Laravel+%2B+Node.js+Backend;PostgreSQL+%2B+MySQL+Expert;Building+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Laravel+%2B+Node.js+Backend;PostgreSQL+%2B+MySQL+Apprentice;Building+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaysonbutawan/jaysonbutawan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jaysonbutawan/jaysonbutawan/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation" />
 </p>
 
 ---
