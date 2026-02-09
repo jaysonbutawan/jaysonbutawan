@@ -45,10 +45,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysonbutawan&theme=tokyonight&hide_border=true" width="100%" />
 </p>
-![Metrics](https://metrics.lecoq.io/jaysonbutawan?template=terminal&base=header,activity,community,repositories,metadata)
 ### 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaysonbutawan/jaysonbutawan/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" />
+</p>
+
+### 🧱Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaysonbutawan/jaysonbutawan/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" />
 </p>
 
 ---
