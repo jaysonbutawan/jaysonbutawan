@@ -48,7 +48,7 @@
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaysonbutawan/jaysonbutawan/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jaysonbutawan/jaysonbutawan/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" />
 </p>
 
 ---
