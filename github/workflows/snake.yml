@@ -8,6 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 👇 THIS IS THE MISSING BLOCK
+    permissions: 
+      contents: write
+    # 👆 WITHOUT THIS, THE PUSH FAILS
+    
     steps:
       - name: Generate snake.svg
         uses: Platane/snk@v3
