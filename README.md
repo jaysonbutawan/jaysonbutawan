@@ -43,7 +43,7 @@
 </p>
 
 ---
-
+<img src="https://replicate.delivery/xpbkg/H8wK7A25r4m2LB5A6U15mH8FjJ02w8D6A6U15mH8FjJ02w8D6A/output.gif" width="100%" alt="Lofi Coding Animation" />
 ### 🤝 Connect with the Creator
 <p align="center">
 <a href="https://www.linkedin.com/in/jayson-butawan-6015b63a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
