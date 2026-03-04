@@ -44,8 +44,9 @@
 
 ---
 <div align="center">
-<img src="https://replicate.delivery/xpbkg/H8wK7A25r4m2LB5A6U15mH8FjJ02w8D6A6U15mH8FjJ02w8D6A/output.gif" width="100%" alt="Lofi Coding Animation" />
-<br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm56Z3R5bmZ3bm56Z3R5bmZ3bm56Z3R5bmZ3bm56Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Lofi Coding Animation" />
+  
+  <br/>
 ---
 ### 🤝 Connect with the Creator
 <p align="center">
