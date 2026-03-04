@@ -46,12 +46,10 @@
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" alt="Person Coding at a Desk - SVG Code">
     <rect x="0" y="280" width="400" height="20" fill="#EAEAEA"/>
-    
     <rect x="180" y="180" width="200" height="100" rx="5" fill="#C19A6B"/>
     <rect x="360" y="220" width="10" height="60" fill="#B08D61"/> <path d="M 120 280 L 160 280 L 160 230 L 140 210 L 120 230 Z" fill="#4285F4"/> <circle cx="140" cy="190" r="15" fill="#FFDBAC"/> <circle cx="138" cy="188" r="1" fill="#000"/> <path d="M 140 190 Q 140 200 130 195" fill="none" stroke="#FFDBAC" stroke-width="3"/> <path d="M 150 215 L 175 220 L 195 210" fill="none" stroke="#FFDBAC" stroke-width="4" stroke-linecap="round"/>
     <circle cx="195" cy="210" r="2" fill="#FFDBAC"/> <path d="M 100 280 L 120 280 L 120 230 Q 100 210 80 230 Z" fill="#333"/> <rect x="70" y="210" width="15" height="70" fill="#333"/> <rect x="230" y="100" width="120" height="80" rx="3" fill="#333"/>
     <rect x="240" y="110" width="100" height="60" rx="1" fill="#000"/> <rect x="190" y="195" width="40" height="5" fill="#555"/>
-    
     <rect x="245" y="115" width="40" height="2" fill="#EAEAEA"/>
     <rect x="245" y="120" width="20" height="2" fill="#34A853">
       <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" />
