@@ -44,21 +44,8 @@
 
 ---
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" alt="Person Coding at a Desk - SVG Code">
-    <rect x="0" y="280" width="400" height="20" fill="#EAEAEA"/>
-    <rect x="180" y="180" width="200" height="100" rx="5" fill="#C19A6B"/>
-    <rect x="360" y="220" width="10" height="60" fill="#B08D61"/> <path d="M 120 280 L 160 280 L 160 230 L 140 210 L 120 230 Z" fill="#4285F4"/> <circle cx="140" cy="190" r="15" fill="#FFDBAC"/> <circle cx="138" cy="188" r="1" fill="#000"/> <path d="M 140 190 Q 140 200 130 195" fill="none" stroke="#FFDBAC" stroke-width="3"/> <path d="M 150 215 L 175 220 L 195 210" fill="none" stroke="#FFDBAC" stroke-width="4" stroke-linecap="round"/>
-    <circle cx="195" cy="210" r="2" fill="#FFDBAC"/> <path d="M 100 280 L 120 280 L 120 230 Q 100 210 80 230 Z" fill="#333"/> <rect x="70" y="210" width="15" height="70" fill="#333"/> <rect x="230" y="100" width="120" height="80" rx="3" fill="#333"/>
-    <rect x="240" y="110" width="100" height="60" rx="1" fill="#000"/> <rect x="190" y="195" width="40" height="5" fill="#555"/>
-    <rect x="245" y="115" width="40" height="2" fill="#EAEAEA"/>
-    <rect x="245" y="120" width="20" height="2" fill="#34A853">
-      <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" />
-    </rect> <rect x="245" y="125" width="60" height="2" fill="#FBBC05"/>
-    <rect x="245" y="130" width="30" height="2" fill="#EA4335"/>
-  </svg>
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgMzAwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCI+PHJlY3QgeD0iMCIgeT0iMjgwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjRUFFQUVBIi8+PHJlY3QgeD0iMTgwIiB5PSIxODAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMTAwIiByeD0iNSIgZmlsbD0iI0MxOUE2QiIvPjxyZWN0IHg9IjM2MCIgeT0iMjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iNjAiIGZpbGw9IiNCMDhENjEiLz48cGF0aCBkPSJNIDEyMCAyODAgTCAxNjAgMjgwIEwgMTYwIDIzMCBMIDE0MCAyMTAgTCAxMjAgMjMwIFoiIGZpbGw9IiM0Mjg1RjQiLz48Y2lyY2xlIGN4PSIxNDAiIGN5PSIxOTAiIHI9IjE1IiBmaWxsPSIjRkZEQkFDIi8+PGNpcmNsZSBjeD0iMTM4IiBjeT0iMTg4IiByPSIxIiBmaWxsPSIjMDAwIi8+PHBhdGggZD0iTSAxNDAgMTkwIFEgMTQwIDIwMCAxMzAgMTk1IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkRCQUMiIHN0cm9rZS13aWR0aD0iMyIvPjxwYXRoIGQ9Ik0gMTUwIDIxNSBMIDE3NSAyMjAgTCAxOTUgMjEwIiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkRCQUMiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iMTk1IiBjeT0iMjEwIiByPSIyIiBmaWxsPSIjRkZEQkFDIi8+PHBhdGggZD0iTSAxMDAgMjgwIEwgMTIwIDI4MCBMIDEyMCAyMzAgUSAxMDAgMjEwIDgwIDIzMCBaIiBmaWxsPSIjMzMzIi8+PHJlY3QgeD0iNzAiIHk9IjIxMCIgd2lkdGg9IjE1IiBoZWlnaHQ9IjcwIiBmaWxsPSIjMzMzIi8+PHJlY3QgeD0iMjMwIiB5PSIxMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iODAiIHByeD0iMyIgZmlsbD0iIzMzMyIvPjxyZWN0IHg9IjI0MCIgeT0iMTEwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjYwIiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE5MCIgeT0iMTk1IiB3aWR0aD0iNDAiIGhlaWdodD0iNSIgZmlsbD0iIzU1NSIvPjxyZWN0IHg9IjI0NSIgeT0iMTE1IiB3aWR0aD0iNDAiIGhlaWdodD0iMiIgZmlsbD0iI0VBRUFFQSIvPjxyZWN0IHg9IjI0NSIgeT0iMTIwIiB3aWR0aD0iMjAiIGhlaWdodD0iMiIgZmlsbD0iIzM0QTg1MyI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+PC9yZWN0PjxyZWN0IHg9IjI0NSIgeT0iMTI1IiB3aWR0aD0iNjAiIGhlaWdodD0iMiIgZmlsbD0iI0ZCQkMwNSIvPjxyZWN0IHg9IjI0NSIgeT0iMTMwIiB3aWR0aD0iMzAiIGhlaWdodD0iMiIgZmlsbD0iI0VBNDMzNSIvPjwvc3ZnPg==" width="400" />
 </p>
-
-<br/>
   
 ---
 ### 🤝 Connect with the Creator
