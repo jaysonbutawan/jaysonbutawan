@@ -57,3 +57,5 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jaysonbutawan&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
 </p>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
